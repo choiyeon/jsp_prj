@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msgs>
+	<msg>안녕하세요?</msg>
+	<msg>Hello XML!</msg>
+<!-- 	<msg>Hello XML!</msg> : 노드는 대소문자 가림-->
+<!-- 	<msg>Hello XML! 시작노드와 종료노드는 반드시 짝을 이룬다. -->
+	<msg/><!-- 입력문자어 -->
+</msgs>
